@@ -1,5 +1,8 @@
 import React from 'react'
 
+import { Article, Brand, CTA } from './components';
+import { Blog, Feature, Footer, Header, Possibility, WhatGPT3} from './containers';
+
 const App = () => {
   return (
     <div>
